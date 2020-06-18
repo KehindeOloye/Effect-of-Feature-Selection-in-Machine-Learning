@@ -335,7 +335,7 @@ public class MainProjectGUI extends javax.swing.JFrame {
 
         jButton1.setText("jButton1");
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("/Users/Kehinde/NetBeansProjects/ParseXmlFile/Parser.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("~/Parser.png")); // NOI18N
         jLabel1.setMaximumSize(new java.awt.Dimension(699, 240));
         jLabel1.setMinimumSize(new java.awt.Dimension(699, 240));
         jLabel1.setPreferredSize(new java.awt.Dimension(699, 240));
