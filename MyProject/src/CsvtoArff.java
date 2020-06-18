@@ -19,8 +19,8 @@ import java.io.File;
 public class CsvtoArff {
   public static void main(String[] args) throws Exception {
   
-    String args0="/Users/Kehinde/Documents/trainingtest.csv";
-    String args1="/Users/Kehinde/Documents/theoutput.arff";
+    String args0="~/trainingtest.csv";
+    String args1="~/theoutput.arff";
    
     // This is used to load CSV
     CSVLoader myloader = new CSVLoader();
